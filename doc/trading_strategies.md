@@ -1,0 +1,15 @@
+# Crypt Bot - Strategies
+- Mean Reversion
+- Dollar Cost Averaging
+- Volume-Weighted Average Price
+- Time-Weighted Average Price
+- Percentage of Volume
+- Market Making
+- Momentum Investing
+- Factor-Based Investing
+- ETF Rotation
+- Smart Beta
+- Trend Following
+- Sentiment Analysis
+- Statistical Arbitrage
+- Seasonality

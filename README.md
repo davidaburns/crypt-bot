@@ -1,0 +1,2 @@
+# Crypt Bot
+ Crypt Bot is an algorithmic trading bot to be utilized for cryptocurrencies. This is meant to be for education purposes, but if this can make some money in the end, then that is just a plus ;)
